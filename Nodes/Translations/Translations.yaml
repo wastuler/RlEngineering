@@ -1,2 +1,30 @@
 Name: Translations
 Type: FolderType
+Children:
+- Name: LocalizationDictionary1
+  Type: LocalizationDictionary
+  DataType: String
+  ValueRank: OneOrMoreDimensions
+  ArrayDimensions: [0,0]
+  Value: 
+   {
+    "Type": 12,
+    "Dimensions": [15,2],
+    "Body": [
+     "Key","en-US",
+     "Timestamp","Timestamp",
+     "TimedShelve","Timed Shelve",
+     "Acknowledge","Acknowledge",
+     "Acknowledge All","Acknowledge All",
+     "Confirm","Confirm",
+     "Active","Active",
+     "OneShotShelve","One-Shot Shelve",
+     "Confirm All","Confirm All",
+     "Name","Name",
+     "SourceName","Source Variable",
+     "Message","Message",
+     "Acked","Acked",
+     "Confirmed","Confirmed",
+     "Severity","Severity"
+    ]
+   }
