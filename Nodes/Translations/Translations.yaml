@@ -9,7 +9,7 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [15,2],
+    "Dimensions": [40,2],
     "Body": [
      "Key","en-US",
      "Timestamp","Timestamp",
@@ -25,6 +25,31 @@ Children:
      "Message","Message",
      "Acked","Acked",
      "Confirmed","Confirmed",
-     "Severity","Severity"
+     "Severity","Severity",
+     "Configuration","Configuration",
+     "ProductInformation","Product Information",
+     "Diagnostics","Diagnostics",
+     "To","To",
+     "From","From",
+     "Refresh","Refresh",
+     "Old password","Old password",
+     "LoginFormPasswordExpired","Password expired",
+     "Login","Login",
+     "New password","New password",
+     "Password","Password",
+     "LoginChangePasswordFormPasswordTooShort","Password too short",
+     "Confirm password","Confirm password",
+     "Change password","Change password",
+     "Your password is expired. Please enter a new one","Your password is expired.\nPlease enter a new one.",
+     "Current User:","Current User:",
+     "Logout","Logout",
+     "LoginFormLoginSuccessful","Login successful",
+     "LoginChangePasswordFormUnsupportedOperation","Unsupported operation",
+     "LoginFormAuthenticationFailed","Authentication failed",
+     "LoginChangePasswordFormWrongOldPassword","Wrong old password",
+     "LoginChangePasswordFormUserNotFound","User not found",
+     "LoginChangePasswordFormPasswordAlreadyUsed","Password already used",
+     "LoginChangePasswordFormPasswordChangedTooRecently","Password changed too recently",
+     "LoginChangePasswordFormPasswordsDoNotMatch","Passwords do not match"
     ]
    }

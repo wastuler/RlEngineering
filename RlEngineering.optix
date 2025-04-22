@@ -49,16 +49,40 @@ Project:
    Uri: 'urn:FTOptix:NetLogic'
    Module: FTOptix.NetLogic
    Version: 4.0
+  13:
+   Uri: 'urn:FTOptix:System'
+   Module: FTOptix.System
+   Version: 3.0
+  14:
+   Uri: 'urn:FTOptix:System:Net'
+   Module: FTOptix.System.Net
+   Version: 2.0
+  15:
+   Uri: 'urn:FTOptix:EventLogger'
+   Module: FTOptix.EventLogger
+   Version: 2.0
+  16:
+   Uri: 'urn:FTOptix:EventLogger:Net'
+   Module: FTOptix.EventLogger.Net
+   Version: 1.0
+  17:
+   Uri: 'urn:FTOptix:Report'
+   Module: FTOptix.Report
+   Version: 4.0
+  18:
+   Uri: 'urn:FTOptix:Report:Net'
+   Module: FTOptix.Report.Net
+   Version: 2.4
  Statistics:
-  TotalNodeCount: 9070
-  Objects: 1976
-  ObjectTypes: 23
-  Variables: 7071
+  TotalNodeCount: 11686
+  Objects: 2517
+  ObjectTypes: 35
+  Variables: 9127
   VariableTypes: 0
   DataTypes: 0
-  Methods: 0
-  References: 43
+  Methods: 7
+  References: 69
   ReferenceTypes: 0
-  Files: 4
+  Files: 7
  Nodes:
  - File: Nodes/RlEngineering.yaml
